@@ -1,0 +1,6 @@
+# Set up connection
+# define the InfluxDB client and credentials
+influx_url = "http://ipepdvmssqldb2.ipe.kit.edu:8086"
+influx_token = "xyz=="
+influx_org = "IPE"
+influx_bucket = "batcyc_proto_doodle_3"
