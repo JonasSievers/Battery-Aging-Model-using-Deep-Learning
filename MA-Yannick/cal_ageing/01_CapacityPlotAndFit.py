@@ -7,9 +7,7 @@ from cal_PlotAndFit_lookup import plot_and_fit_mutiple
 # filepathToDirectory = "/home/yannick/Documents/SD/23-05-04_batcyc_preprocessing_result_6/prepr_res_eoc/"
 filepathToDirectory = "C:\\Users\\Yannick\\bwSyncShare\\MA Yannick Fritsch\\00_Daten\\prepr_res_eoc\\"
 togglePlotAllParameters = False
-arrayParametersCellsToDisplay = [
-    "P046",
-]
+
 arrayPackagesToDisplay = [
     "eoc",
 ]
