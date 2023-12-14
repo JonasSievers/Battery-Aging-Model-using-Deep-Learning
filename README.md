@@ -1,6 +1,6 @@
 # Battery-Aging-Model-using-Deep-Learning
 
-![image description](images/Figure1.svg)
+![image description](images/Figure1.jpg)
 
 > **Abstract:**
 > *In the context of the global energy transition, the need for sustainable and reliable energy storage solutions is more urgent than ever. Lithium-ion batteries and fuel cells, which are central to this paradigm shift, are increasingly being integrated into a wide range of applications, from industrial manufacturing to electric vehicles and renewable energy systems. However, a critical challenge that hinders their wider adoption and optimal use is the ageing and degradation phenomena inherent in these technologies. Understanding and accurately predicting the ageing behaviour of lithium-ion batteries and fuel cells is crucial to improving their longevity, safety and overall performance. Therefore, we present selected deep learning models to address these challenges and provide a novel approach to predict and model the ageing and degradation processes of these energy systems.*
